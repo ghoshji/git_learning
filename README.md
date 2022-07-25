@@ -12,7 +12,14 @@ Nothing can be done after this
 Got to know about how the things are working
 
 ## Learning 02
-[x] git
-[x] GitHub
-[x] Pushing the code
+- [x] git
+- [x] GitHub
+- [x] Pushing the code
+- [] Pulling the code
+
+## Learning 03
+Have to know about how to make changes to the repo in any other way.
+* First way
+* Second method
+* third way the best
 
